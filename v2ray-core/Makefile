@@ -9,8 +9,8 @@ PKG_VERSION:=4.44.0
 PKG_RELEASE:=$(AUTORELEASE)
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
-PKG_SOURCE_URL:=https://codeload.github.com/v2fly/v2ray-core/tar.gz/v$(PKG_VERSION)?
-PKG_HASH:=d9973bafd3020f60a51fa3495b24ab417b08b3c8f9539a3748d00da6c68d0103
+PKG_SOURCE_URL:=https://codeload.github.com/Yangself666/v2ray-core/tar.gz/refs/tags/v$(PKG_VERSION)?
+PKG_HASH:=8a1d043ba28d6ae0df2d09af3711c94a3d1569904b345ea38015ced0d25b34bf
 
 PKG_LICENSE:=MIT
 PKG_LICENSE_FILES:=LICENSE
